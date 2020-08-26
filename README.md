@@ -22,9 +22,7 @@ Print all variables to the console with `System.out.println`
 
 
 # By Smail Jusic
-package Aufgabe;
 
-public class Main {
 
     public static void main(String[] args) {
         
@@ -44,4 +42,4 @@ public class Main {
         System.out.println(grade);
         System.out.println(married);
     }
-}
+
